@@ -1,0 +1,11 @@
+Excellent work.
+
+For Q3, I didn't intend for you to put the numbers in quotes.
+
+For Q4, a variable can only start with a letter or underscore (_)
+Then it can have any number of letters, underscores, or numbers.
+
+So, the two you are unsure of are invalid because they have other characters
+
+Q7/8 good thinking on the phone number. A lot of people didn't catch that 
+it may contain hypens (-) or a leading 0
